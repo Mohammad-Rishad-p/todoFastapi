@@ -1,3 +1,6 @@
+
+To run th application run first run "source venv/bin/activate" then run "python main.py" in terminal
+
 the 5 different endpoints of the todo app api is given below
 
 1) GET Request -> to get all todo items -> http://127.0.0.1:8000/api/
